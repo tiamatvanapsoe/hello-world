@@ -1,2 +1,2 @@
 # hello-world
-This is the description of my first own repository. It has a very original title.
+This is the description of my first own repository. It has a very interesting title.
